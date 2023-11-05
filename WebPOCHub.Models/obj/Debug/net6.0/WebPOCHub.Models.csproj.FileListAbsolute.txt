@@ -1,0 +1,12 @@
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\bin\Debug\net6.0\WebPOCHub.Models.deps.json
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\bin\Debug\net6.0\WebPOCHub.Models.dll
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\bin\Debug\net6.0\WebPOCHub.Models.pdb
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.csproj.AssemblyReference.cache
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.AssemblyInfoInputs.cache
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.AssemblyInfo.cs
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.csproj.CoreCompileInputs.cache
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.dll
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\refint\WebPOCHub.Models.dll
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\WebPOCHub.Models.pdb
+F:\Updated Profile - Dot Net\WebPOCHub\WebPOCHub.Models\obj\Debug\net6.0\ref\WebPOCHub.Models.dll

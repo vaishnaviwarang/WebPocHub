@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mDw35CiVuBvoaEDJwLbVWBMxOkWo8/Ek4FBRL2VYPDI=",
+  "Source": "WebPOCHub.API",
+  "BasePath": "_content/WebPOCHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
